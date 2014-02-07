@@ -1,0 +1,11 @@
+Java source codes:  candyCrush
+
+Executable jar file: candycrush.jar
+
+usage:
+java -jar candycrush.jar -i iputfile -o output
+
+exampe:
+java -jar candycrush.jar -i candytweet.txt -o words.txt
+
+
