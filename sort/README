@@ -1,0 +1,9 @@
+/** Yuzhen Ye@Indiana University, Bloomington, C343, Spring 2014*/
+
+A simple implementation of quicksort (see source codes under qsort/)
+
+Call the program:
+
+java -jar qsort.jar
+
+
