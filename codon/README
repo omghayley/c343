@@ -1,0 +1,1 @@
+java -jar codonTable.jar -i codon.txt
