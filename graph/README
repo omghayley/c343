@@ -1,0 +1,8 @@
+C343 Spring 2014
+Availalbe in this package (assignment):
+
+Graph.java  --- interface of the graph
+AdjGraph.java --- adjacency list implementation of the graph
+GraphDemo.java --- test code
+
+What you need to implement: the topSort() method (in AdjGraph.java)
